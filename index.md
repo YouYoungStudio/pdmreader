@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/YouYoungStudio/pdmreader/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/YouYoungStudio/pdmreader/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## PDMreader 是一个可以浏览PowerDesigner PDM数据模型文件的简单应用！
+### 功能描述
+pdmReader可以解析PowerDesigner PDM数据模型xml文件，并显示Table列表和相应的Column字段详情。支持在table name,table code,column name,column code几个字段内查找筛选匹配到关键字的表。支持生成简单的SQL语句。
+### 使用说明
+<html>
+<!--在这里插入内容-->
+<img src="https://youyoungstudio.github.io/pdmreader/iPhone11open.png" width="60%" height="60%">
+</html>
