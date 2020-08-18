@@ -17,3 +17,6 @@ pdmReader可以解析PowerDesigner PDM数据模型xml文件，并显示Table列�
 
 - 在column列表页，点击右上角SQL按钮，可以生成该表对应简单的sql建表语句。目前sql语句中只包含表名、列名、数据类型、字段长度、是否可空这些信息。点击Copy按钮可以拷贝生成的sql。  
  <img src="https://youyoungstudio.github.io/pdmreader/iPhone11sql.png" alt="sql" width="60%" height="60%">
+ 
+### 联系方式
+如果您在使用PDMreader的过程中遇到问题，可以通过电子邮件联系我们，邮件地址 rockyswang@icloud.com
