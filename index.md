@@ -4,17 +4,16 @@ pdmReader可以解析PowerDesigner PDM数据模型xml文件，并显示Table列�
 ### 使用说明
 - 打开app，界面点击Open PDM按钮选择文件。
 - 在手机存储或者iCloud中选择PowerDesigner PDM数据模型xml文件，也可以在Recents页面中选择最近使用过的文件。
- ![image](https://youyoungstudio.github.io/pdmreader/iPhone11pickfile.png)
+ <img src="https://youyoungstudio.github.io/pdmreader/iPhone11pickfile.png" alt="pick file" width="60%" height="60%">
 
 - 打开文件后，就可以显示PDM文件包含的table列表。
- ![table list](https://youyoungstudio.github.io/pdmreader/iPhone11tablelist.png)
+ <img src="https://youyoungstudio.github.io/pdmreader/iPhone11tablelist.png" alt="table list" width="60%" height="60%">
 
 - table列表页面，支持查找功能，目前支持在table name,table code,column name,column code几个字段内查找筛选匹配到关键字的表。
- ![image](https://youyoungstudio.github.io/pdmreader/iPhone11search.png)
+ <img src="https://youyoungstudio.github.io/pdmreader/iPhone11search.png" alt="search" width="60%" height="60%">
 
 - 点击table列表中的任一table项右边的箭头符号，就可以进入column列表，点击column列表中每一项右边的箭头符号，还可以显示column详细信息，包括：数据类型、字段长度、是否可空、详细解释。
- ![image](https://youyoungstudio.github.io/pdmreader/iPhone11columndetail.png)
+ <img src="https://youyoungstudio.github.io/pdmreader/iPhone11columndetail.png" alt="column list" width="60%" height="60%">
 
 - 在column列表页，点击右上角SQL按钮，可以生成该表对应简单的sql建表语句。目前sql语句中只包含表名、列名、数据类型、字段长度、是否可空这些信息。点击Copy按钮可以拷贝生成的sql。
- ![image](https://youyoungstudio.github.io/pdmreader/iPhone11sql.png)
- 
+ <img src="https://youyoungstudio.github.io/pdmreader/iPhone11sql.png" alt="sql" width="60%" height="60%">
