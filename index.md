@@ -19,4 +19,6 @@ pdmReader可以解析PowerDesigner PDM数据模型xml文件，并显示Table列�
  <img src="https://youyoungstudio.github.io/pdmreader/iPhone11sql.png" alt="sql" width="60%" height="60%">
  
 ### 联系方式
-如果您在使用PDMreader的过程中遇到问题，可以通过电子邮件联系我们，邮件地址 rockyswang@icloud.com
+如果您在使用PDMreader的过程中遇到问题，可以通过电子邮件联系我们，邮件地址 rockyswang@icloud.com  
+[隐私政策](https://youyoungstudio.github.io/pdmreader/privacy.html)
+
