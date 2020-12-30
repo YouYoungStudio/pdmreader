@@ -24,6 +24,6 @@ pdmReader可以解析PowerDesigner PDM数据模型xml文件，并显示Table列�
 
 ### 微信扫一扫赞助
 
- <img src="https://saveyourfile.space/pdmreader/reward-qrcode-wechat.png" alt="table list" width="60%" height="60%">
+ <img src="https://saveyourfile.space/pdmreader/reward-qrcode-wechat.png" alt="table list" width="90%" height="90%">
 
 
