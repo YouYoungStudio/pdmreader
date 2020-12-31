@@ -27,3 +27,6 @@ pdmReader可以解析PowerDesigner PDM数据模型xml文件，并显示Table列�
  <img src="https://saveyourfile.space/pdmreader/reward-qrcode-wechat.png" alt="table list" width="90%" height="90%">
 
 
+### iOS/iPad版试用安装
+[在Testflight中安装pdmReader](https://testflight.apple.com/join/623FCtS4)
+
